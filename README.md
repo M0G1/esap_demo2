@@ -4,7 +4,7 @@
 
 Скриншоты работы программы:
 
-![alt text](https://github.com/M0G1/esap_demo2/tree//master/screenshots/2.png)
+![alt text](screenshots/2.png)
 
 Обновление информации о тренажёрном зале:
 ![alt text](https://github.com/M0G1/esap_demo2/tree//master/screenshots/3.png)
